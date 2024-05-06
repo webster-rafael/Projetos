@@ -66,6 +66,7 @@ body * {
 
 #profile img {
     width: 112px;
+    border-radius: 100%;
 
 
 }
